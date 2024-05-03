@@ -1,0 +1,22 @@
+{
+  "name": "SwiftCart",
+  "short_name": "SwiftCart",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "swiftcart.png",
+      "sizes": "111x74",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "swiftcart.png",
+      "sizes": "111x74",
+      "type": "image/png"
+    }
+  ]
+}  
